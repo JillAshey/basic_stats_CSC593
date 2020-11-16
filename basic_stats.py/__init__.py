@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Air-sea Package for Python
-    Version 1.0 Oct. 8, 2020
-    Author:  Brice Loose, Graduate School of Oceanography, URI.
-    Email: bloose@uri.edu
+basic_stats Package for Python
+    Version 1.0 Nov. 16, 2020
+    Author:  Jill Ashey, URI.
+    Email: jillashey@uri.edu
     # 
     # DISCLAIMER:
     #    This software is provided "as is" without warranty of any kind. 
@@ -11,7 +11,7 @@ Air-sea Package for Python
 """
 
 #import numpy as np
-from .air_sea import *
+from .basic_stats import *
 
 
 __all__ = ['sat_vp']
